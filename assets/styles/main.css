@@ -1,0 +1,13 @@
+/* Main CSS file for styling the blog */
+/* Subscribe Button Styles */
+.subscribe-btn {
+  background-color: #ff0037;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+.subscribe-btn:hover {
+  background-color: #b30024;
+}
